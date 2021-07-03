@@ -1,0 +1,47 @@
+body {
+    margin: 0 auto;
+    background-color: darkcyan;
+    display: flex;
+}
+div {
+    width: 50wv;
+    margin: 0 auto;
+    padding: 40px 40px 40px 40px;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+}
+form {
+    margin: 0 auto;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    font-family: Avenir;
+    color: darkcyan;
+    align-items: center;
+    display: flex;
+}
+log, rejestracja{
+    border-style: dashed;
+    border-color: darkcyan;
+
+}
+
+h1, h2 {
+    text-align: center;
+    font-family: Avenir;
+}
+h2 {
+    font-size: 16px;
+}
+a{
+    font-family: Avenir;
+    font-size: 14px;
+}
+.div2 {
+    display: flex;
+}
+ul {
+    background-color: antiquewhite;
+}

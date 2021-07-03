@@ -1,0 +1,20 @@
+table *
+{
+   border: 1px solid black;
+   border-collapse:collapse;
+    column-width: 150px;
+    text-align:center;
+    font-family: Avenir;
+}
+table tr
+{
+    border: 1px solid black;
+    text-align:center;
+    
+}
+table th
+{
+    background-color: darkcyan;
+    text-align:center;
+    width: 50 px;    
+}
